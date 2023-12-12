@@ -1,9 +1,10 @@
 {
-    "name": "extension-name",
+    "name": "@kaboom-extended/four-way-movement",
     "version": "1.0.0",
-    "description": "",
+    "description": "Easily setup four way movement in your games",
     "main": "src/index.js",
     "author": "Luiz Bills",
+    "keywords": ["kaboom", "game-development", "gamedev", "movement"],
     "license": "MIT",
     "scripts": {
         "build": "esbuild src/index.js --bundle --minify --sourcemap --outfile=dist/dist.js"
